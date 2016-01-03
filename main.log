@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.12.24)  26 DEC 2015 23:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.12.24)  3 JAN 2016 15:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -930,42 +930,51 @@ File: images/fig4-1-7a.png Graphic file (type png)
 
 <use images/fig4-1-7a.png>
 Package pdftex.def Info: images/fig4-1-7a.png used on input line 220.
-(pdftex.def)             Requested size: 181.18439pt x 156.43674pt.
+(pdftex.def)             Requested size: 226.48395pt x 195.55pt.
 
 <images/fig4-1-7b.png, id=316, 397.485pt x 355.3275pt>
 File: images/fig4-1-7b.png Graphic file (type png)
 
 <use images/fig4-1-7b.png>
 Package pdftex.def Info: images/fig4-1-7b.png used on input line 225.
-(pdftex.def)             Requested size: 181.18439pt x 161.97246pt.
- [6 <./images/fig4-1-6.png>]
+(pdftex.def)             Requested size: 226.48395pt x 202.46828pt.
+
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 219--229
+[][] [] 
+ []
+
+[6 <./images/fig4-1-6.png>]
 <images/fig4-1-8.png, id=327, 841.1425pt x 552.0625pt>
 File: images/fig4-1-8.png Graphic file (type png)
 
 <use images/fig4-1-8.png>
 Package pdftex.def Info: images/fig4-1-8.png used on input line 247.
 (pdftex.def)             Requested size: 362.37569pt x 237.83713pt.
- [7 <./images/fig4-1-7a.png> <./images/fig4-1-7b.png>] <images/fig4-1-9.png, id
-=343, 887.315pt x 413.545pt>
+ [7 <./images/fig4-1-7a.png> <./images/fig4-1-7b.png>] [8 <./images/fig4-1-8.pn
+g>]
+<images/fig4-1-9.png, id=348, 887.315pt x 413.545pt>
 File: images/fig4-1-9.png Graphic file (type png)
-
-<use images/fig4-1-9.png>
+ <use images/fig4-1-9.png>
 Package pdftex.def Info: images/fig4-1-9.png used on input line 284.
 (pdftex.def)             Requested size: 362.37569pt x 168.88565pt.
- [8 <./images/fig4-1-8.png>]
+
 <images/fig4-1-10a.png, id=350, 431.36156pt x 393.72093pt>
 File: images/fig4-1-10a.png Graphic file (type png)
 
 <use images/fig4-1-10a.png>
 Package pdftex.def Info: images/fig4-1-10a.png used on input line 299.
-(pdftex.def)             Requested size: 203.83417pt x 186.04614pt.
+(pdftex.def)             Requested size: 226.48395pt x 206.7186pt.
 
 <images/fig4-1-10b.png, id=351, 409.53pt x 389.20406pt>
 File: images/fig4-1-10b.png Graphic file (type png)
 
 <use images/fig4-1-10b.png>
 Package pdftex.def Info: images/fig4-1-10b.png used on input line 304.
-(pdftex.def)             Requested size: 203.83417pt x 193.72261pt.
+(pdftex.def)             Requested size: 226.48395pt x 215.2447pt.
+
+Overfull \hbox (2.43333pt too wide) in paragraph at lines 298--308
+[][] [] 
+ []
 
 <images/fig4-1-12.png, id=352, 386.19281pt x 457.71pt>
 File: images/fig4-1-12.png Graphic file (type png)
@@ -991,45 +1000,45 @@ Package pdftex.def Info: images/fig4-1-14b.png used on input line 345.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[10 <./images/fig4-1-10a.png> <./images/fig4-1-10b.png>]
-<images/fig4-1-15.png, id=371, 529.98pt x 545.78906pt>
+[10 <./images/fig4-1-10a.png> <./images/fig4-1-10b.png>] [11 <./images/fig4-1-1
+2.png> <./images/fig4-1-14a.png> <./images/fig4-1-14b.png>]
+<images/fig4-1-15.png, id=380, 529.98pt x 545.78906pt>
 File: images/fig4-1-15.png Graphic file (type png)
 
 <use images/fig4-1-15.png>
 Package pdftex.def Info: images/fig4-1-15.png used on input line 367.
 (pdftex.def)             Requested size: 271.7835pt x 279.88942pt.
- [11 <./images/fig4-1-12.png> <./images/fig4-1-14a.png> <./images/fig4-1-14b.pn
-g>]
+
 <images/fig4-1-16.png, id=381, 739.76375pt x 725.71124pt>
 File: images/fig4-1-16.png Graphic file (type png)
 
 <use images/fig4-1-16.png>
 Package pdftex.def Info: images/fig4-1-16.png used on input line 388.
 (pdftex.def)             Requested size: 317.07614pt x 311.05315pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[12 <./images/fig4-1-15.png>] [13 <./images/fig4-1-16.png>] [14] [15] [16]
-[17] [18]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 623.
+ [12 <./images/fig4-1-15.png>] [13 <./images/fig4-1-16.png>] [14] [15] [16] [17
+] [18]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 627.
  [19]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 623.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 627.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 623.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 623.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 627.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 627.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 19143B4F6FDE6836AFF73C57D4CB34A4;3091.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 623.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 627.
  ) 
 Here is how much of TeX's memory you used:
- 12452 strings out of 493089
- 177533 string characters out of 6138424
- 282492 words of memory out of 5000000
- 15321 multiletter control sequences out of 15000+600000
+ 12458 strings out of 493089
+ 177591 string characters out of 6138424
+ 284492 words of memory out of 5000000
+ 15330 multiletter control sequences out of 15000+600000
  69657 words of font info for 249 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,11n,43p,303b,1694s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,11n,43p,303b,1699s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2015
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2015/texmf-di
@@ -1106,7 +1115,7 @@ ist/fonts/type1/arphic/gbsnu/gbsnu97.pfb><c:/texlive/2015/texmf-dist/fonts/type
 /gbsnu99.pfb><c:/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9a.pfb><
 c:/texlive/2015/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu9e.pfb><c:/texlive/201
 5/texmf-dist/fonts/type1/arphic/gbsnu/gbsnuff.pfb>
-Output written on main.pdf (19 pages, 3353612 bytes).
+Output written on main.pdf (19 pages, 3356687 bytes).
 PDF statistics:
  773 PDF objects out of 1000 (max. 8388607)
  547 compressed objects within 6 object streams
